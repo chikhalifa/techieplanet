@@ -1,0 +1,3 @@
+LEFT JOIN would return all rows from the games table, corresponding country of city OR Null where there's no city
+
+RIGHT JOIN would return all rows from the games table, except for where there's no city

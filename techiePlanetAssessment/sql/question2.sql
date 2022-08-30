@@ -1,0 +1,1 @@
+SELECT `games`.`yr` AS yr, `city`.`country` AS country FROM `games` LEFT JOIN `city` ON `games`.`city` = `city`.`name`;
